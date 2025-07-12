@@ -37,3 +37,6 @@ From the project root (`zeus-home`)
 ```
 
 All the commands created under the `bootstrap/` namespace will be for setting up various components of the homelab.
+
+
+## Using the aliases
