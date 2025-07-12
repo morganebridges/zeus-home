@@ -1,1 +1,6 @@
-echo 'TEST'
+
+#!/bin/bash
+
+echo 'installing podman'
+
+sudo apt-get -y install podman

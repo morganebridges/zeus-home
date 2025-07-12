@@ -24,3 +24,16 @@ Refer to the `Makefile` for a list of available targets and their descriptions.
 ## Contribution
 
 If you add new scripts, ensure they are properly documented and integrated into the `Makefile` with clear target names.
+
+
+## Podman Setup
+
+To install podman on your linux computer, use the bootstrap make target.
+
+From the project root (`zeus-home`)
+
+```bash
+  make bootstrap/podman
+```
+
+All the commands created under the `bootstrap/` namespace will be for setting up various components of the homelab.
