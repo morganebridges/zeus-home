@@ -6,7 +6,7 @@
 
 - Remote access for server sessions ()
 - "managed" object storage
-- Network storage that takes advantage of our huge drives
+- Quality network storage that takes advantage of our huge drives
 - Internet network ingress with authentication
 - Workload execution (probably container orchestration)
 
