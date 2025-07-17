@@ -1,5 +1,8 @@
-.PHONY: bootstrap/podman
+.PHONY: bootstrap/python
+bootstrap/python:
+	./host_scripts/05_bootstrap_python.sh
 
+.PHONY: bootstrap/podman
 bootstrap/podman:
 	./host_scripts/bootstrap_podman.sh
 
